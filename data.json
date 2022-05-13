@@ -2,6 +2,7 @@
      {
         "id": 1,
         "uuid": 123,
+        "org": "123324234",
         "uno": "000-241166",
          "type": "MONITOR",
                "manufacturer": "VALDAY",
@@ -10,8 +11,8 @@
 
         "inventory": null,
         "year": "2021"
-
         "place": "СКЛАД",
+        "data": {}
        
     },
     {
