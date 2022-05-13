@@ -1,0 +1,18 @@
+[
+     {
+        "id": 1,
+        "uuid": 123,
+        "uno": "000-241166",
+         "type": "MONITOR",
+               "manufacturer": "VALDAY",
+        "model": "IM27VL1",
+             "serial": null,
+
+        "inventory": null,
+        "year": "2021"
+
+        "place": "СКЛАД",
+       
+    },
+    {
+]
